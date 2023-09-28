@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JS, React**
 
-- 👨‍💻 All of my projects are available at [https://sou842.github.io/](https://sou842.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://sou842.github.io/)
 
 - 📫 How to reach me **SaifactPlanet@gmail.com**
 
