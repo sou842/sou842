@@ -9,7 +9,7 @@ Building web applications, developer tools, and practical solutions with modern 
 I'm a Full Stack Developer focused on building scalable, maintainable and user-centric web applications. I enjoy working across the frontend and backend, exploring new technologies, and building tools that solve real-world problems.
 
 - **Portfolio:** [sou842.github.io](https://sou842.github.io/)
-- **Email:** SaifactPlanet@gmail.com
+- **Email:** samantasourav732@gmail.com
 - **LinkedIn:** [Sourav Samanta](https://linkedin.com/in/sourav-samanta-132989250)
 
 ---
